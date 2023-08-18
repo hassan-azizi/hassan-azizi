@@ -1,8 +1,6 @@
 - Hi, I’m @hassan-azizi
-- I’m interested in comutational chemistry and chemical engineering projects.
-- I’m currently learning about Machine Learning.
-- In the future, I’m looking to collaborate in the field of AI based material discovery and process simulations
-
+- I am a chemical engineering graduate student.
+- My research interests include process modeling and simulation, and the interface of AI and chemical engineering
 
 <!---
 hassan-azizi/hassan-azizi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
