@@ -1,6 +1,8 @@
 - Hi, I’m @hassan-azizi
 - I am a chemical engineering graduate student.
-- My research interests include process modeling and simulation, and the interface of AI and chemical engineering.
+- My research interests include:
+  * Process modeling, simulation, and optimization.
+  * Interface of AI and chemical engineering.
 
 <!---
 hassan-azizi/hassan-azizi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
