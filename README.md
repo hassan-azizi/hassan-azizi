@@ -1,4 +1,4 @@
-- Hi, I’m @hassan-azizi
+- Hi, @hassan-azizi here.
 - I am a chemical engineering graduate student.
 - My research interests include:
   * Process modeling, simulation, and optimization.
