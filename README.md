@@ -10,7 +10,7 @@ I'm **Muhammad Hassan**, a chemical engineering student passionate about **Mathe
 - **Languages:** MATLAB, Python, C++, Latex
 - **Version Control:** Git, GitHub
 
-## Check by current projects:
+## Current projects:
 [AIM](https://github.com/Chung-Research-Group/AIM) : Adsorption Integrated Modules: MATLAB based GUI tools for adsorption isotherm based fixed bed process modelling.
 
 ## 📈 GitHub Stats
