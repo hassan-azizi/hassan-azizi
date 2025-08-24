@@ -7,8 +7,11 @@ I'm **Muhammad Hassan**, a chemical engineering student passionate about **Mathe
 - 📚 Learning **C++, Numerical computing, process modelling**
 
 ## 🔧 Technologies & Tools
-- **Languages:** MATLAB, Python, C++
+- **Languages:** MATLAB, Python, C++, Latex
 - **Version Control:** Git, GitHub
+
+##Check by current projects:
+[!AIM](https://github.com/Chung-Research-Group/AIM)
 
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=hassan-azizi&show_icons=true&theme=dark)
