@@ -10,7 +10,7 @@ I'm **Muhammad Hassan**, a chemical engineering student passionate about **Mathe
 - **Languages:** MATLAB, Python, C++, Latex
 - **Version Control:** Git, GitHub
 
-##Check by current projects:
+## Check by current projects:
 [AIM](https://github.com/Chung-Research-Group/AIM)
 
 ## 📈 GitHub Stats
