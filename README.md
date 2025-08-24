@@ -11,7 +11,7 @@ I'm **Muhammad Hassan**, a chemical engineering student passionate about **Mathe
 - **Version Control:** Git, GitHub
 
 ## Check by current projects:
-[AIM](https://github.com/Chung-Research-Group/AIM)
+[AIM](https://github.com/Chung-Research-Group/AIM) : Adsorption Integrated Modules: MATLAB based GUI tools for adsorption isotherm based fixed bed process modelling.
 
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=hassan-azizi&show_icons=true&theme=dark)
