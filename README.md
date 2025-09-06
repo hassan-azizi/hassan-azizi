@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 I'm **Muhammad Hassan**, a chemical engineering student passionate about **Mathematical modelling, simulation, and optimziation of chemical engineering processes**. 
-My toolset involves MATLAB, python, C++.
+My toolset ==> MATLAB, python, and C++.
 
 ## 🔹 About Me
 - 💻 Currently working on **GUI software development for gas adsorption process**
