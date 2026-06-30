@@ -11,9 +11,6 @@ My toolset ==> MATLAB, python, and C++.
 - **Languages:** MATLAB, Python, C++, Latex
 - **Version Control:** Git, GitHub
 
-## Current projects:
-[AIM](https://github.com/Chung-Research-Group/AIM) : Adsorption Integrated Modules: MATLAB based GUI tools for adsorption isotherm based fixed bed process modelling.
-
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=hassan-azizi&show_icons=true&theme=dark)
 
